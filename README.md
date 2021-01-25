@@ -2,4 +2,4 @@
 
 ## Results
 
-![image][/image.png]
+![image][/Image.png]
