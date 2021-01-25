@@ -2,4 +2,4 @@
 
 ## Results
 
-![image](Image.png)
+![image](Image.PNG)
